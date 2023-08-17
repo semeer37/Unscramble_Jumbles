@@ -46,5 +46,3 @@ Enter single or comma-separated jumbled words (or type 'q' to quit): cimt, olve,
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 Feel free to contribute by opening issues or pull requests!
-
-```
